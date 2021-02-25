@@ -1,0 +1,14 @@
+---
+title: "python_for_biologists"
+author: "Jose Bermudez"
+date: "2/24/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(reticulate)
+use_python("/Users/jabermud/miniconda3/bin/python")
+```
+
+## 
